@@ -9,5 +9,5 @@
 - `docker run <app_name>` -->
 
 
-#### build and Run
+#### Build and Run
 - `docker-compose up --build`
